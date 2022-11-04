@@ -1,5 +1,6 @@
 <template>
   <div id="app">
+      <!-- fi -->
     <nav-bar></nav-bar>
     <router-view></router-view>
   </div>
